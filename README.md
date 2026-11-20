@@ -1,8 +1,8 @@
 # The Brexit Reset
 
-![news-image-20261120](https://make.fun/badge/news-image-20261120.svg)
-![rank](https://make.fun/badge/news-image-20261120/xclayy/news-image-20261120/rank.svg)
-![reward](https://make.fun/badge/news-image-20261120/xclayy/news-image-20261120/reward.svg)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/xclayy/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/xclayy/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 A broadsheet front page that sums up the world's news of Friday, 20 November
 2026 in a single 1024×1024 image — my entry for the make.fun competition
@@ -63,7 +63,7 @@ execution this year.
 
 ## Competition
 
-"Sum up 20 November's world news in one image" on make.fun: an AI judge
+"Sum up 20 November's world news in one image" on [make.fun](https://make.fun/bounty/news-image-20261120): an AI judge
 that can see images compares entries two at a time and picks the one that
 best sums up the day's world news; entries rank by how often they are
 picked. The entry program writes one image to `/output/entry.png`, at most
